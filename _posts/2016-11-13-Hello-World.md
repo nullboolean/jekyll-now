@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque ipsum, blan
 
 Donec mollis, tellus ut ullamcorper pharetra, leo purus congue turpis, imperdiet consequat lorem erat ac ante. Maecenas neque ipsum, rhoncus eu iaculis sit amet, faucibus et tellus. Aliquam fringilla, diam et tempor placerat, dui purus tincidunt ipsum, ut ullamcorper ante nisl sed mi. Donec elementum diam vel aliquet pulvinar. Phasellus tempor iaculis sem, eget mollis tellus pretium nec. Pellentesque eget felis venenatis, condimentum elit ut, blandit mi. Pellentesque sagittis turpis nec nibh tempor accumsan. Morbi vel arcu ultricies orci venenatis rhoncus a a sem. Praesent vel sapien vitae nunc fringilla cursus at eu nisl. Phasellus non tellus sapien. Aenean gravida sem purus, at bibendum lectus molestie et. Sed sagittis quam diam, a laoreet arcu tincidunt id. Sed ipsum justo, pretium vitae velit ac, aliquet rutrum justo. Proin ligula sapien, volutpat sed augue in, placerat imperdiet elit. Etiam mattis non lacus sagittis mattis. Etiam blandit libero ac nisi mattis dictum.
 
-{% highlight java %}
+{% highlight java linenos %}
 
 public class HelloWorld
 {
