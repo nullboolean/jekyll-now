@@ -3,11 +3,13 @@ layout: post
 title: Hello World
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec neque ipsum, blandit fermentum vulputate non, tincidunt malesuada neque. Curabitur sollicitudin sed elit ac iaculis. Suspendisse non risus at erat placerat sagittis ut pharetra risus. Cras id lorem sed metus efficitur vulputate. Nam at volutpat est, non hendrerit purus. Vestibulum lacus tellus, egestas eget rhoncus eu, dictum dignissim justo. Etiam massa nisi, vehicula ut orci volutpat, commodo dictum metus. Fusce eros diam, luctus a malesuada in, vulputate nec nunc. Fusce in ex vitae sem tincidunt vestibulum a eget nulla. Duis fermentum sed urna in euismod.
+Well hello, there the internet. Here is the first post, there are plans for much more in the future. However, if you are reading the post, then you are more than likely a developer. So you shall know that work and other commitments get in the way.  Work and other commitments outside of a blog are not problems to a software developer. They are problems that we all share.
 
-Donec mollis, tellus ut ullamcorper pharetra, leo purus congue turpis, imperdiet consequat lorem erat ac ante. Maecenas neque ipsum, rhoncus eu iaculis sit amet, faucibus et tellus. Aliquam fringilla, diam et tempor placerat, dui purus tincidunt ipsum, ut ullamcorper ante nisl sed mi. Donec elementum diam vel aliquet pulvinar. Phasellus tempor iaculis sem, eget mollis tellus pretium nec. Pellentesque eget felis venenatis, condimentum elit ut, blandit mi. Pellentesque sagittis turpis nec nibh tempor accumsan. Morbi vel arcu ultricies orci venenatis rhoncus a a sem. Praesent vel sapien vitae nunc fringilla cursus at eu nisl. Phasellus non tellus sapien. Aenean gravida sem purus, at bibendum lectus molestie et. Sed sagittis quam diam, a laoreet arcu tincidunt id. Sed ipsum justo, pretium vitae velit ac, aliquet rutrum justo. Proin ligula sapien, volutpat sed augue in, placerat imperdiet elit. Etiam mattis non lacus sagittis mattis. Etiam blandit libero ac nisi mattis dictum.
+The purpose of this blog is for me to write my thoughts, on items that I pick up and read on the sea of information out there. Also, my day to day problems as a developer, hoping that you find them useful. Also, shout out my true feelings and not worry.
 
-{% highlight java linenos %}
+In true fashion of the internet and general software engineer humour here is the first code snippet.
+
+{% highlight java %}
 
 public class HelloWorld
 {
@@ -16,10 +18,3 @@ public class HelloWorld
   }
 }
 {% endhighlight %}
-
-
-
-
-Pellentesque porttitor malesuada justo eu egestas. Quisque in consequat turpis, a aliquet ligula. Nulla odio odio, egestas ut purus consequat, luctus ornare nibh. Sed ultrices lacus eu risus pharetra convallis. Sed nec auctor eros. Nulla hendrerit condimentum pharetra. Morbi fermentum orci nec ex consectetur bibendum. In in viverra metus. Nunc pretium, eros vitae vehicula molestie, est odio aliquet tellus, eget rhoncus elit mauris non ipsum. Phasellus vulputate diam venenatis turpis blandit, ut convallis lorem tincidunt. Nullam ac mi sed magna posuere cursus vitae non risus.
-
-Nunc quis sapien eget massa fringilla semper. Donec ut erat ut tellus malesuada egestas nec vel sapien. Sed tortor turpis, aliquam a sem bibendum, sagittis feugiat urna. Duis non finibus enim. Sed imperdiet pellentesque ante. Donec ex massa, aliquam id feugiat vel, laoreet nec nisl. Integer imperdiet sit amet lacus sed luctus. Nunc ac metus nulla. Vivamus ac erat massa. Vestibulum non tellus mattis, cursus mi non, iaculis tortor. Mauris scelerisque urna magna, sed tempor ante lobortis ut. In et massa odio. Curabitur a lectus vel velit consequat sodales. Aliquam erat volutpat. Vestibulum tellus quam, hendrerit quis aliquam eget, porta sed ex.
